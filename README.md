@@ -49,5 +49,5 @@
 
 # 2. 추천 알고리즘
 
-
+MovieLens 10M dataset: https://grouplens.org/datasets/movielens/10m/
 
