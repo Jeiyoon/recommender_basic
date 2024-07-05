@@ -51,3 +51,8 @@
 
 MovieLens 10M dataset: https://grouplens.org/datasets/movielens/10m/
 
+## 2.1 평가 지표
+
+- Precision@K: 사용자에게 K개의 아이템을 추천했을 때 그중 실제로 선호하는 아이템의 비율이 얼마나 되는지
+- Recall@K: 사용자에게 K개의 아이템을 추천했을 때 사용자가 선호하는 아이템 그룹 중 몇 개 맞았는지
+
